@@ -1,0 +1,11 @@
+pyproject.toml
+src/ai_client/__init__.py
+src/ai_client/client.py
+src/ai_client/config.py
+src/ai_project_skeleton.egg-info/PKG-INFO
+src/ai_project_skeleton.egg-info/SOURCES.txt
+src/ai_project_skeleton.egg-info/dependency_links.txt
+src/ai_project_skeleton.egg-info/requires.txt
+src/ai_project_skeleton.egg-info/top_level.txt
+tests/test_client.py
+tests/test_config.py

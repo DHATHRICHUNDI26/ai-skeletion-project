@@ -1,0 +1,10 @@
+httpx
+pydantic
+pydantic-settings
+
+[dev]
+pytest
+pytest-asyncio
+respx
+ruff
+pre-commit
